@@ -1,6 +1,6 @@
 {
-  "name": "education-site",
+  "name": "education-website",
   "scripts": {
-    "build": "npm run does-not-exist"
+    "build": "exit 1"
   }
 }
