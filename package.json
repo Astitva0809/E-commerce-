@@ -1,0 +1,6 @@
+{
+  "name": "education-site",
+  "scripts": {
+    "build": "npm run does-not-exist"
+  }
+}
