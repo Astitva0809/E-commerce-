@@ -1,3 +1,5 @@
+// INTENTIONAL CRASH
+console.log(user.name);
 
 const bar = document.getElementById('bar');
 const close = document.getElementById('close');
@@ -13,5 +15,6 @@ if (close){
         nav.classList.remove('active');
     })
 }
+
 
 
